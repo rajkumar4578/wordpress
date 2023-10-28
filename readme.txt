@@ -1,4 +1,4 @@
-=== Tea Cafe ===
+=== lovely Cafe ===
 Contributors: Luzuk
 Tags: one-column, two-columns, right-sidebar, left-sidebar, grid-layout, custom-colors, custom-background, custom-header, custom-menu, custom-logo, editor-style, footer-widgets, full-width-template, flexible-header, sticky-post, theme-options, threaded-comments, blog, portfolio, e-commerce
 Requires at least: 5.0
